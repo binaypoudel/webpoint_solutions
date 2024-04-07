@@ -1,5 +1,5 @@
 Assignment 
-(UI Automation - Automate Daraz login and search using Java, 
+(UI Automation - Automate Daraz login , search and chechout with payement methids using Java, 
 Selenium, and the Page Object Model (POM) design pattern.)
 
 You can check in Automation Assignment Folder. (POM design patter with maven build)
